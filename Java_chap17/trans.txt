@@ -1,0 +1,2 @@
+100 24.32, ? hello this is Africa and America
+200 34.64 how is everything, are you ok?
